@@ -1,8 +1,0 @@
-flask
-flask-cors
-gunicorn
-sentence-transformers
-faiss-cpu
-pandas
-numpy
-googletrans==4.0.0-rc1
